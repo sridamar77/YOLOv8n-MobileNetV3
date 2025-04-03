@@ -1,0 +1,9 @@
+names:
+- Bawah
+- Depan
+- Kanan
+- Kiri
+nc: 4
+test: "D:\Pycharm\Project YoloNetv3\Dataset Fix Resize\test\images"
+train: "D:\Pycharm\Project YoloNetv3\Dataset Fix Resize\train\images"
+val: "D:\Pycharm\Project YoloNetv3\Dataset Fix Resize\valid\images"
